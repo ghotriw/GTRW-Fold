@@ -50,13 +50,3 @@
         }
     };
 })(jQuery);
-
-$(function () {
-
-    $('.menu-auth').gtrwFold({
-        block: '.menu-auth',
-        toggle: '.menu-auth__toggle',
-        visibleCssClass: 'menu-auth__visible'
-    })
-
-});
