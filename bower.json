@@ -2,7 +2,7 @@
   "name": "gtrw-fold",
   "version": "0.1",
   "main": [
-    "gtrw-fold.min.js"
+    "gtrw-fold.js"
   ],
   "ignore": [],
   "dependencies": {
